@@ -1,0 +1,13 @@
+.emotional {
+    color: red;
+}
+.physical {
+    color: green;
+}
+.intellectual {
+    color: blue;
+}
+
+svg tspan {
+    font-size: 9px;
+}
